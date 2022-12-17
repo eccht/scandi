@@ -1,2 +1,2 @@
 # Scandi
-https://petrahtimirov.github.io/Scandi/
+https://eccht.github.io/scandi/
